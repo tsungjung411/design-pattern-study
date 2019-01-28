@@ -1,0 +1,1 @@
+- [MVC是一個巨大誤會](http://blog.turn.tw/?p=1539)
